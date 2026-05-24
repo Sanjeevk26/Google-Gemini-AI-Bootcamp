@@ -232,7 +232,6 @@ These systems worked using predefined rules, similar to `if-else` logic.
 
 For example:
 
-```text
 If the user says X, respond with Y.
 If condition A is true, perform action B.
 
