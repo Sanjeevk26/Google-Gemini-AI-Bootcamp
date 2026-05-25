@@ -323,7 +323,8 @@ Text classification
 Question answering
 Language understanding
 Sentiment analysis
-PaLM
+
+## PaLM
 
 PaLM is another large-scale model developed by Google.
 
@@ -331,7 +332,7 @@ It was designed for advanced language understanding and reasoning capabilities.
 
 PaLM represented progress toward larger and more capable language models that could perform complex reasoning and generate more useful responses.
 
-Current Era: GPT and Gemini
+## Current Era: GPT and Gemini
 
 The current era of AI includes powerful models such as GPT and Gemini.
 
